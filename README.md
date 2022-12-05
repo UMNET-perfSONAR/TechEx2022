@@ -1,3 +1,5 @@
+<img src="TechEx_2022_Tutorial_github.png" alt="drawing" width="128"/>
+
 # TechEx2022
 TechEx 2022 perfSONAR Ansible Workshop
 
@@ -6,3 +8,4 @@ TechEx 2022 perfSONAR Ansible Workshop
 ```
 ls
 ```
+
